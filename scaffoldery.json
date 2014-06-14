@@ -1,0 +1,11 @@
+{
+  "name": "scaffold-gen",
+  "platform": "javascript",
+  "generators": [
+    {
+      "name": "hola",
+      "templatesDirectory": "hola-templates",
+      "promptsFile": "hola-prompts.js"
+    }
+  ]
+}
